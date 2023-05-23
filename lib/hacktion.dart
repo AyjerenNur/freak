@@ -261,7 +261,28 @@ class _MyprojectState extends State<Myproject> {
                 )
               ],
             )
-          ])
+          ]),
+          ElevatedButton(
+              onPressed: () {
+                Navigator.pushNamed(context, 'third');
+              },
+              child: Stack(
+                children: [
+                  Container(
+                    height: 50,
+                    width: double.infinity,
+                    decoration: BoxDecoration(color: Colors.black),
+                  ),
+                  Text(
+                    'Далее',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.w500,
+                        color: Colors.white),
+                  )
+                ],
+              ))
         ],
       ),
       bottomNavigationBar: BottomNavigationBar(
