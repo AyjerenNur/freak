@@ -42,97 +42,97 @@ class ThirdPage extends StatelessWidget {
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('kor.jpg'),
               ),
               title: Text(
-                'Bernie',
+                'Savannah Nguyen',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 4 hours ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('sav.jpg'),
               ),
               title: Text(
-                'Lisa',
+                'Kathryn Murphy',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 5 hours ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('man.jpg'),
               ),
               title: Text(
-                'Nina',
+                'Bessie Cooper',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 6 hours ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('blon.jpg'),
               ),
               title: Text(
-                'Stupido',
+                'Savannah Nguyen',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 7 hours ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('cur.jpg'),
               ),
               title: Text(
-                'Little Queen',
+                'Brooklyn Simmons',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 4 hours ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('sav.jpg'),
               ),
               title: Text(
-                'Tannie',
+                'Courtney Henry',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 4 days ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('blon.jpg'),
               ),
               title: Text(
-                'Tomboy',
+                'Marvin McKinney',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen 12 hours ago'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           Card(
             child: ListTile(
               leading: CircleAvatar(
-                backgroundImage: AssetImage('per.jpg'),
+                backgroundImage: AssetImage('girl.jpg'),
               ),
               title: Text(
-                'Shan',
+                'Kathryn Murphy',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text('last seen on Thursday'),
+              subtitle: Text('룸스에 초대했습니다.  · 10:09 am'),
             ),
           ),
           SizedBox(
